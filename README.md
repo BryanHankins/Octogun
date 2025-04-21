@@ -38,13 +38,12 @@ Install Python 3.8+ if you haven’t already.
 
 Install dependencies:
 
-bash
 Copy
 Edit
 pip install pygame
 Run the game:
 
-bash
+
 Copy
 Edit
 python main.py
